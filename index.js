@@ -1,1 +1,3 @@
-require("./test/test");
+const expect = require("chai").expect;
+
+module.exports = expect;

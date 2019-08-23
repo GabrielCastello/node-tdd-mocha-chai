@@ -1,4 +1,4 @@
-var expect = require("chai").expect;
+const expect = require("../index");
 
 it("expects true to equal true", function() {
   expect(true).to.equal(true);
